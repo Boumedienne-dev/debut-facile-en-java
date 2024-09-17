@@ -4,6 +4,8 @@ public class Main {
 
 
     public static void main(String[] args) {
+        //commentaire
+
        int length = 180;
        int width = 120;
        int surface = length * width;
